@@ -1,7 +1,7 @@
 import { useState } from 'react';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import ceo from '../../assets/10.jpg'
-import ceo1 from '../../assets/11.jpg'
+import ceo1 from '../../assets/11.png'
 
 
 
